@@ -1,0 +1,6 @@
+
+_extract/
+__pycache__/
+.pytest_cache/
+gha-creds-*.json
+gha-kubeconfig-*
